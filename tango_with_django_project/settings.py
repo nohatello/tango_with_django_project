@@ -157,3 +157,4 @@ LOGIN_URL = '/accounts/login/'
 
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
+
